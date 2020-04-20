@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">多言語アプリ
+
+</string>
+    <string name="navigation_drawer_open" translatable="false">ナビゲーションドロワーを開く
+</string>
+    <string name="navigation_drawer_close">ナビゲーションドロワーを閉じる
+
+</string>
+    <string name="action_settings">設定
+</string>
+
+    <string name="text_hindi" translatable="false">हिंदी</string>
+    <string name="text_english" translatable="false">English</string>
+    <string name="text_spanish" translatable="false">" Español"</string>
+    <string name="text_japan" translatable="false">语言</string>
+
+
+    <!-- Navigation Menu-->
+    <string name="title_import">インポート
+</string>
+    <string name="title_gallery">ギャラリー</string>
+    <string name="title_slideshow">スライドショー
+
+</string>
+    <string name="title_tools">ツール
+</string>
+    <string name="title_communication">コミュニケーション
+</string>
+    <string name="title_share">シェア</string>
+    <string name="title_send">送る
+</string>
+    <string name="title_activity_base">base
+</string>
+</resources>
