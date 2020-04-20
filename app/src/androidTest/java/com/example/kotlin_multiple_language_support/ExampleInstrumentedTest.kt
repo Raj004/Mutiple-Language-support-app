@@ -1,4 +1,4 @@
-package com.example.kotlin_navigation_drawer
+package com.example.kotlin_multiple_language_support
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

@@ -1,4 +1,4 @@
-package com.example.kotlin_navigation_drawer
+package com.example.kotlin_multiple_language_support
 
 import android.app.Application
 import android.content.Context

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.kotlin_navigation_drawer">
+    package="com.example.kotlin_multiple_language_support">
 
     <application
-        android:name=".MultiLanguageApp"
+        android:name="com.example.kotlin_multiple_language_support.MultiLanguageApp"
 
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -12,11 +12,11 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".BaseActivity"
+            android:name="com.example.kotlin_multiple_language_support.BaseActivity"
             android:label="@string/title_activity_base"
             android:theme="@style/AppTheme.NoActionBar"></activity>
         <activity
-            android:name=".MainActivity"
+            android:name="com.example.kotlin_multiple_language_support.MainActivity"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

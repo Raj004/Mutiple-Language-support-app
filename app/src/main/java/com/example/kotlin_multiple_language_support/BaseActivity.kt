@@ -1,12 +1,9 @@
-package com.example.kotlin_navigation_drawer
+package com.example.kotlin_multiple_language_support
 
 import android.content.Context
 import android.content.pm.PackageManager
 import android.os.Bundle
-import com.google.android.material.snackbar.Snackbar
 import androidx.appcompat.app.AppCompatActivity
-
-import kotlinx.android.synthetic.main.activity_base.*
 
 abstract class BaseActivity :AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
